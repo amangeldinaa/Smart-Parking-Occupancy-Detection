@@ -1,4 +1,4 @@
-# TensorFlow Image Classification Project
+# Smart Parking Assistance Project
 
 This project demonstrates how to train a deep learning model using TensorFlow for image classification. The dataset used is the CNR-EXT-150x150 dataset, which contains images of vehicles in parking lots. The goal is to classify images into two categories: occupied or free parking spaces.
 
